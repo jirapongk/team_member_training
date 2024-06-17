@@ -1,4 +1,4 @@
-# Python Basics for Newbies
+# Python Basics for My Team Members
 
 ## Introduction
 Welcome to the Python Basics guide for our team members! As part of the t0led0 team, I aim to provide a comprehensive introduction to Python programming for beginners. Whether you're new to programming or looking to add Python to your skill set, this guide will help you get started.
