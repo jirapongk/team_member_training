@@ -36,7 +36,6 @@ Here are three homework ideas based on the topics of Python List Comprehensions,
 These exercises will help your team get comfortable with list comprehensions, lambda expressions, and object-oriented programming in Python.
 
 Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/16483478/17514cb2-3c79-46df-8f11-7d6937bd8890/bia_python101.py
 [2] https://www.w3resource.com/python-exercises/class-exercises/index.php
 [3] https://realpython.com/python-classes/
 [4] https://www.reddit.com/r/learnpython/comments/4d2yl7/i_need_list_comprehension_exercises_to_drill/
